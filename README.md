@@ -17,4 +17,14 @@ change log message manager
 	npm install -g conventional-changelog-cli
 
 	conventional-changelog -p angular -i CHANGELOG.md -s -r 0
+
+	整合webpack 
+
+	{
+	  "scripts": {
+	    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -w -r 0"
+	  }
+	}
 	
+	npm run changelog
+
