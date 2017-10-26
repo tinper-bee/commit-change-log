@@ -1,5 +1,5 @@
 {
-  "name": "bee-label",
+  "name": "commit-change-log",
   "version": "0.0.1",
   "description": "control-label ui component for react",
   "keywords": [
@@ -27,7 +27,7 @@
   },
   "scripts": {
     "dev": "bee-tools run start",
-    "build": "bee-tools run build & conventional-changelog -p angular -i CHANGELOG.md -s -r 0",
+    "build": "bee-tools run build && conventional-changelog -p angular -i CHANGELOG.md -s -r 0",
     "lint": "bee-tools run lint",
     "test": "bee-tools run test",
     "chrome": "bee-tools run chrome",
