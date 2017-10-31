@@ -28,4 +28,6 @@ change log message manager
 	
 	npm run changelog
 
+	
+
 3. git cz

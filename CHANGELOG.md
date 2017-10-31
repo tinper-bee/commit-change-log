@@ -1,5 +1,5 @@
 <a name="0.0.1"></a>
-## 0.0.1 (2017-10-30)
+## 0.0.1 (2017-10-31)
 
 
 ### Bug Fixes
@@ -10,6 +10,7 @@
 
 ### build
 
+* **a:** a ([9005482](https://github.com/tinper-bee/commit-change-log/commit/9005482))
 * **scope:** 短的描述 ([7e2b9bc](https://github.com/tinper-bee/commit-change-log/commit/7e2b9bc))
 * **跳过:** 短是介绍 ([008418b](https://github.com/tinper-bee/commit-change-log/commit/008418b)), closes [#2](https://github.com/tinper-bee/commit-change-log/issues/2)
 
@@ -26,6 +27,9 @@
 
 ### BREAKING CHANGES
 
+* **a:** a
+
+a
 * **只会影响到修改的文件:** 修改的列表  list pack
 * **跳过:** 修改列表
 * **scope:** 修改列表
