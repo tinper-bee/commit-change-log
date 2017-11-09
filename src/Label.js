@@ -11,7 +11,7 @@ class Label extends Component {
 
     const {className,children,clsPrefix, ...others } = this.props;
 
-    consoel.log(" sssss ");
+    consoel.log(" sssss text ");
     let classNames = classnames(clsPrefix,className);
 
     return (
